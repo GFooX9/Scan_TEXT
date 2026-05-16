@@ -1,0 +1,21 @@
+com.example.myapplication
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCamera
+id btnCopy
+id btnGallery
+id etRecognizedText
+id imageView
+id main
+id scrollView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_MyApplication
+style Theme_MyApplication
+xml backup_rules
+xml data_extraction_rules
+xml file_paths

@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:35:13-47
+	android:authorities
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:13-60
+	android:exported
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:13-62
+manifest
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81abb0ac43e6b1affbc001c2eaa6bf49\transformed\material-1.14.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec61dbba9a9bcd07080cce8ed4d9bab5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ac64b9209d47ea4b14ceabf04d242cd5\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\eb1ce315db6eaa4742fc39498b11db9a\transformed\text-recognition-16.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9c1a6235a915db6b3cd4450675089879\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1e8820526cdc15bd0b655135730ec817\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e0d8dd33da7ed78ccf3bddc6534c5a90\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81325c0888a5d5f3b3543217a6420d6d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d5821e6c4d35177ef55b8e5057f44f77\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\77b237fee7fa1d64acfa417fc84684ef\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\22a14e83ada8fe21347ae912e7171d65\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5e2f19b4e6ea907132e08a0c622e6c1e\transformed\activity-1.13.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\426d7c6c8b254c33533b8cf0ddbbf5f1\transformed\activity-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\750abbdac6f0d46841db95920b9b2a9b\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\33394d19933aaa30227e545c74f071d5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\34a0e685def3a6fccddc19081ba04988\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2859099672383648aac67b1e6586165f\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f009c99ef6548d537b59b31c16380438\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2e2330f992b1b519593fbce4c8293ff6\transformed\customview-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\09b8934491620290b67f9cd46b4afece\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1803bec5f1b79b416115a1316d3c8efa\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7806e38d3c50a68795e3910357816558\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\174220d735125e414831158b40feb2e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\58cee096c27de0aaa81b109b2d7fc93a\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7db5d7f690ed3ff1149243cf41829a1\transformed\core-ktx-1.18.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8339bff2d2080efe670f6c2356c8efaa\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7e436948c2971f4ef1197405c892688d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d20323ddee8e463af6e1fcd29f726d93\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a3efee9db16fb70b90994004a9ad674\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\39091bcc9a5fe6fc29c6dbf0fa5568a5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\802687b99ebe559b5f734036b4d72660\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d076434732ba812e28ae9c52d57ab236\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e93dad1236855fc32cddfe8aed267114\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ef7eeed139ffc0b94eef950b3da3eb60\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\83ad4c0933eb11306b54a91fde04259f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\338a3090d3ca83da0121bf2a4e5bac63\transformed\navigationevent\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d008a4cf9fcd7da20fe8b11a18ab0a0e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\274b3502ef8b2115e4d0d48eace9190d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\98d1958c4a847180b10ef8a428aa1282\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\20a1540982d98fde6a7255b9e16a5b41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9691141ef9a34bb25661790b76aecc0e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\dcc88fe8626b79f18d3f606dcc4ca0d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\76bb698231783b66ba46ef551b6fd972\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\73000dbd19b759d5532ccfc31bba4eba\transformed\transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\fa8c62ff87efccc3889826daed363f69\transformed\firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0b8cff738205e9b4ba960ccde75534d0\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d00173560607a723cde66b234017a16e\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0c34c15077a69fb0ce2fdb8f5a979fb1\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0413e7ddac0e4baed551ec8ef33b0dc8\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\bcfb4a9a9ea273399c9ef04308d4e9b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:5-37
+	android:versionCode
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:5-85
+	android:required
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:58-82
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:19-57
+application
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:5-46:19
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:5-46:19
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81abb0ac43e6b1affbc001c2eaa6bf49\transformed\material-1.14.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81abb0ac43e6b1affbc001c2eaa6bf49\transformed\material-1.14.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec61dbba9a9bcd07080cce8ed4d9bab5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec61dbba9a9bcd07080cce8ed4d9bab5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\77b237fee7fa1d64acfa417fc84684ef\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\77b237fee7fa1d64acfa417fc84684ef\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\274b3502ef8b2115e4d0d48eace9190d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\274b3502ef8b2115e4d0d48eace9190d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\bcfb4a9a9ea273399c9ef04308d4e9b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\bcfb4a9a9ea273399c9ef04308d4e9b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:14:9-54
+	android:roundIcon
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:9-65
+activity#com.example.myapplication.MainActivity
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:exported
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:42:9-44:35
+	android:value
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:44:13-32
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:43:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:36:13-38:54
+	android:resource
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:38:17-51
+	android:name
+		ADDED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:17-67
+uses-sdk
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81abb0ac43e6b1affbc001c2eaa6bf49\transformed\material-1.14.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81abb0ac43e6b1affbc001c2eaa6bf49\transformed\material-1.14.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec61dbba9a9bcd07080cce8ed4d9bab5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec61dbba9a9bcd07080cce8ed4d9bab5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ac64b9209d47ea4b14ceabf04d242cd5\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ac64b9209d47ea4b14ceabf04d242cd5\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\eb1ce315db6eaa4742fc39498b11db9a\transformed\text-recognition-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\eb1ce315db6eaa4742fc39498b11db9a\transformed\text-recognition-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9c1a6235a915db6b3cd4450675089879\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9c1a6235a915db6b3cd4450675089879\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1e8820526cdc15bd0b655135730ec817\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1e8820526cdc15bd0b655135730ec817\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e0d8dd33da7ed78ccf3bddc6534c5a90\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e0d8dd33da7ed78ccf3bddc6534c5a90\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81325c0888a5d5f3b3543217a6420d6d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\81325c0888a5d5f3b3543217a6420d6d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d5821e6c4d35177ef55b8e5057f44f77\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d5821e6c4d35177ef55b8e5057f44f77\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\77b237fee7fa1d64acfa417fc84684ef\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\77b237fee7fa1d64acfa417fc84684ef\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\22a14e83ada8fe21347ae912e7171d65\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\22a14e83ada8fe21347ae912e7171d65\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5e2f19b4e6ea907132e08a0c622e6c1e\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5e2f19b4e6ea907132e08a0c622e6c1e\transformed\activity-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\426d7c6c8b254c33533b8cf0ddbbf5f1\transformed\activity-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\426d7c6c8b254c33533b8cf0ddbbf5f1\transformed\activity-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\750abbdac6f0d46841db95920b9b2a9b\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\750abbdac6f0d46841db95920b9b2a9b\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\33394d19933aaa30227e545c74f071d5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\33394d19933aaa30227e545c74f071d5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\34a0e685def3a6fccddc19081ba04988\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\34a0e685def3a6fccddc19081ba04988\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2859099672383648aac67b1e6586165f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2859099672383648aac67b1e6586165f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f009c99ef6548d537b59b31c16380438\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f009c99ef6548d537b59b31c16380438\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2e2330f992b1b519593fbce4c8293ff6\transformed\customview-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2e2330f992b1b519593fbce4c8293ff6\transformed\customview-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\09b8934491620290b67f9cd46b4afece\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\09b8934491620290b67f9cd46b4afece\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1803bec5f1b79b416115a1316d3c8efa\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\1803bec5f1b79b416115a1316d3c8efa\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7806e38d3c50a68795e3910357816558\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7806e38d3c50a68795e3910357816558\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\174220d735125e414831158b40feb2e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\174220d735125e414831158b40feb2e5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\58cee096c27de0aaa81b109b2d7fc93a\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\58cee096c27de0aaa81b109b2d7fc93a\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7db5d7f690ed3ff1149243cf41829a1\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7db5d7f690ed3ff1149243cf41829a1\transformed\core-ktx-1.18.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8339bff2d2080efe670f6c2356c8efaa\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8339bff2d2080efe670f6c2356c8efaa\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7e436948c2971f4ef1197405c892688d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\7e436948c2971f4ef1197405c892688d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d20323ddee8e463af6e1fcd29f726d93\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d20323ddee8e463af6e1fcd29f726d93\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a3efee9db16fb70b90994004a9ad674\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a3efee9db16fb70b90994004a9ad674\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\39091bcc9a5fe6fc29c6dbf0fa5568a5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\39091bcc9a5fe6fc29c6dbf0fa5568a5\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\802687b99ebe559b5f734036b4d72660\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\802687b99ebe559b5f734036b4d72660\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d076434732ba812e28ae9c52d57ab236\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d076434732ba812e28ae9c52d57ab236\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e93dad1236855fc32cddfe8aed267114\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e93dad1236855fc32cddfe8aed267114\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ef7eeed139ffc0b94eef950b3da3eb60\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ef7eeed139ffc0b94eef950b3da3eb60\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\83ad4c0933eb11306b54a91fde04259f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\83ad4c0933eb11306b54a91fde04259f\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\338a3090d3ca83da0121bf2a4e5bac63\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\338a3090d3ca83da0121bf2a4e5bac63\transformed\navigationevent\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d008a4cf9fcd7da20fe8b11a18ab0a0e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d008a4cf9fcd7da20fe8b11a18ab0a0e\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\274b3502ef8b2115e4d0d48eace9190d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\274b3502ef8b2115e4d0d48eace9190d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\98d1958c4a847180b10ef8a428aa1282\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\98d1958c4a847180b10ef8a428aa1282\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\20a1540982d98fde6a7255b9e16a5b41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\20a1540982d98fde6a7255b9e16a5b41\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9691141ef9a34bb25661790b76aecc0e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\9691141ef9a34bb25661790b76aecc0e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\dcc88fe8626b79f18d3f606dcc4ca0d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\dcc88fe8626b79f18d3f606dcc4ca0d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\76bb698231783b66ba46ef551b6fd972\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\76bb698231783b66ba46ef551b6fd972\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\73000dbd19b759d5532ccfc31bba4eba\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\73000dbd19b759d5532ccfc31bba4eba\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\fa8c62ff87efccc3889826daed363f69\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\fa8c62ff87efccc3889826daed363f69\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0b8cff738205e9b4ba960ccde75534d0\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0b8cff738205e9b4ba960ccde75534d0\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d00173560607a723cde66b234017a16e\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\d00173560607a723cde66b234017a16e\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0c34c15077a69fb0ce2fdb8f5a979fb1\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0c34c15077a69fb0ce2fdb8f5a979fb1\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0413e7ddac0e4baed551ec8ef33b0dc8\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\0413e7ddac0e4baed551ec8ef33b0dc8\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\bcfb4a9a9ea273399c9ef04308d4e9b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\bcfb4a9a9ea273399c9ef04308d4e9b3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AlexanderDobler\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\e617130ed31034af0f10d97282b1c662\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\febac96fe35be31e553d12984493ef09\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\574082864b01e68a43815352c0f76c9e\transformed\common-18.11.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\44f911964fd4377f5bc0c9e144ec478c\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a9d8b06b11f168b8fd7c410b3ed88cb7\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\a7500156fe73e405fea906c7bdf278cd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\ec64043b99d90a14d19b42fb49c00e31\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\f3380fcf418d87d472cfe221134cb3e8\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\8aba7f18e27996a7485eabb64d319ad9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\4d1550c599f7d62921078a45ae10afa5\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\5a501acc575bdc8e574d7fedadcda83b\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\AlexanderDobler\.gradle\caches\9.4.1\transforms\2126aff8c54a1a0d8d5eeb664d5fc54e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
